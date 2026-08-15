@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0001-two-sum) |
+| [1470-shuffle-the-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
