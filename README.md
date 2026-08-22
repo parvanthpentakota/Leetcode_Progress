@@ -20,6 +20,7 @@
 | [0050-powx-n](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1486-xor-operation-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
