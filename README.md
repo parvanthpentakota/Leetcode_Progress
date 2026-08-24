@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0136-single-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1480-running-sum-of-1d-array) |
@@ -56,6 +57,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1486-xor-operation-in-an-array) |
 ## Prefix Sum
