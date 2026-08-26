@@ -10,6 +10,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1480-running-sum-of-1d-array) |
+| [1534-count-good-triplets](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
