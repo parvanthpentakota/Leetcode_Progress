@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
@@ -81,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Enumeration
 |  |
