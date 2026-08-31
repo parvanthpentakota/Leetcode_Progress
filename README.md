@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1408-string-matching-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -48,6 +49,7 @@
 | [0344-reverse-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0771-jewels-and-stones) |
+| [1408-string-matching-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1408-string-matching-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
