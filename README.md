@@ -23,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
@@ -48,6 +49,7 @@
 | [0058-length-of-last-word](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0771-jewels-and-stones) |
 | [1408-string-matching-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1408-string-matching-in-an-array) |
@@ -101,4 +103,12 @@
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1408-string-matching-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
