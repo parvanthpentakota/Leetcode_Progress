@@ -8,6 +8,7 @@
 | [0136-single-number](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1408-string-matching-in-an-array) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0412-fizz-buzz) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
