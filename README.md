@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0905-sort-array-by-parity) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -50,6 +51,7 @@
 | [0283-move-zeroes](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
@@ -104,6 +106,7 @@
 | [0217-contains-duplicate](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Enumeration
 |  |
