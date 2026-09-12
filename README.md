@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,5 +140,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
