@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0905-sort-array-by-parity) |
@@ -30,6 +31,7 @@
 | [0141-linked-list-cycle](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0387-first-unique-character-in-a-string) |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
