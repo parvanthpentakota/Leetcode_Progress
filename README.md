@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1920-build-array-from-permutation) |
 ## Bit Manipulation
 |  |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1603-design-parking-system) |
 ## Greedy
 |  |
 | ------- |
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
