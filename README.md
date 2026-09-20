@@ -77,6 +77,7 @@
 | [0771-jewels-and-stones](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0771-jewels-and-stones) |
 | [1408-string-matching-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1408-string-matching-in-an-array) |
 | [2325-decode-the-message](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/2325-decode-the-message) |
+| [3498-reverse-degree-of-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0412-fizz-buzz](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1920-build-array-from-permutation) |
+| [3498-reverse-degree-of-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
