@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0219-contains-duplicate-ii) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0412-fizz-buzz) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
