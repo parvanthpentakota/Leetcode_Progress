@@ -43,6 +43,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0412-fizz-buzz) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0242-valid-anagram) |
@@ -92,6 +94,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1920-build-array-from-permutation) |
@@ -99,6 +102,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1486-xor-operation-in-an-array) |
