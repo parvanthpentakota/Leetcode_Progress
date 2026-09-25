@@ -37,6 +37,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0771-jewels-and-stones) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2325-decode-the-message](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/2325-decode-the-message) |
 ## Math
 |  |
@@ -80,6 +81,7 @@
 | [0412-fizz-buzz](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0771-jewels-and-stones) |
 | [1408-string-matching-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1408-string-matching-in-an-array) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2325-decode-the-message](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/2325-decode-the-message) |
 | [3498-reverse-degree-of-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -150,6 +152,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [1603-design-parking-system](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1603-design-parking-system) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Greedy
 |  |
 | ------- |
