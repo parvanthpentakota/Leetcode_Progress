@@ -81,6 +81,7 @@
 | [0412-fizz-buzz](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0771-jewels-and-stones) |
 | [1408-string-matching-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1408-string-matching-in-an-array) |
+| [1678-goal-parser-interpretation](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1678-goal-parser-interpretation) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2325-decode-the-message](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/2325-decode-the-message) |
 | [3498-reverse-degree-of-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/3498-reverse-degree-of-a-string) |
