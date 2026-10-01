@@ -24,6 +24,7 @@
 | [1534-count-good-triplets](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@
 | [0771-jewels-and-stones](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/0771-jewels-and-stones) |
 | [1408-string-matching-in-an-array](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1408-string-matching-in-an-array) |
 | [1678-goal-parser-interpretation](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1678-goal-parser-interpretation) |
+| [1816-truncate-sentence](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/1816-truncate-sentence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2325-decode-the-message](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/2325-decode-the-message) |
 | [3498-reverse-degree-of-a-string](https://github.com/parvanthpentakota/Leetcode_Progress/tree/master/3498-reverse-degree-of-a-string) |
